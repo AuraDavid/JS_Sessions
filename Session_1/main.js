@@ -14,8 +14,7 @@ function  myFunction () {
         let user_input = document.getElementById("output-text");
         user_input.innerHTML = answear;
     }
-
-}
+};
 
 console.log (answear);
 
